@@ -1,0 +1,23 @@
+[
+  {
+    "name": "mim-offer-price-finding",
+    "description": "Инструмент для поиска лучших цен",
+    "language": "Lua",
+    "status": "active",
+    "url": "https://github.com/mimicai-mimes/mim-offer-price-finding"
+  },
+  {
+    "name": "mim-delivery-product-normalization-2.0",
+    "description": "Нормализация данных о доставке",
+    "language": "Lua",
+    "status": "active",
+    "url": "https://github.com/mimicai-mimes/mim-delivery-product-normalization-2.0"
+  },
+  {
+    "name": "mim-offer-price-finding-limited-resources",
+    "description": "Архивная версия для ограниченных ресурсов",
+    "language": "Lua",
+    "status": "deprecated",
+    "url": "https://github.com/mimicai-mimes/mim-offer-price-finding-limited-resources"
+  }
+]
