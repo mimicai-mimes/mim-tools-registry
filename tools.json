@@ -19,5 +19,40 @@
     "language": "Lua",
     "status": "deprecated",
     "url": "https://github.com/mimicai-mimes/mim-offer-price-finding-limited-resources"
+  },
+  {
+    "name": "mim-maksmart-catalog-searching",
+    "description": "Поиск по каталогу Максмарт",
+    "language": "Lua",
+    "status": "active",
+    "url": "https://github.com/mimicai-mimes/mim-maksmart-catalog-searching"
+  },
+  {
+    "name": "mim-offer-price-finding-limited-resources-via-search-system",
+    "description": "Поиск цен через поисковую систему для ограниченных ресурсов",
+    "language": "Lua",
+    "status": "active",
+    "url": "https://github.com/mimicai-mimes/mim-offer-price-finding-limited-resources-via-search-system"
+  },
+  {
+    "name": "mim-offer-price-updater",
+    "description": "Обновление цен предложений",
+    "language": "Lua",
+    "status": "active",
+    "url": "https://github.com/mimicai-mimes/mim-offer-price-updater"
+  },
+  {
+    "name": "mim-delivery-product-normalization",
+    "description": "Нормализация данных о доставке (v1)",
+    "language": "Lua",
+    "status": "active",
+    "url": "https://github.com/mimicai-mimes/mim-delivery-product-normalization"
+  },
+  {
+    "name": "mim-example",
+    "description": "Шаблон примера MIM-инструмента",
+    "language": "Lua",
+    "status": "template",
+    "url": "https://github.com/mimicai-mimes/mim-example"
   }
 ]
