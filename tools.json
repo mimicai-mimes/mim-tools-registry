@@ -40,12 +40,5 @@
     "language": "Lua",
     "status": "active",
     "url": "https://github.com/mimicai-mimes/mim-delivery-product-normalization"
-  },
-  {
-    "name": "mim-example",
-    "description": "Шаблон примера MIM-инструмента",
-    "language": "Lua",
-    "status": "template",
-    "url": "https://github.com/mimicai-mimes/mim-example"
   }
 ]
