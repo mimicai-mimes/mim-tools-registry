@@ -21,13 +21,6 @@
     "url": "https://github.com/mimicai-mimes/mim-offer-price-finding-limited-resources"
   },
   {
-    "name": "mim-maksmart-catalog-searching",
-    "description": "Поиск по каталогу Максмарт",
-    "language": "Lua",
-    "status": "active",
-    "url": "https://github.com/mimicai-mimes/mim-maksmart-catalog-searching"
-  },
-  {
     "name": "mim-offer-price-finding-limited-resources-via-search-system",
     "description": "Поиск цен через поисковую систему для ограниченных ресурсов",
     "language": "Lua",
